@@ -1,0 +1,6 @@
+framework module SwiftNavigation {
+  umbrella header "SwiftNavigation-umbrella.h"
+
+  export *
+  module * { export * }
+}
